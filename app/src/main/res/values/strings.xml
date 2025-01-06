@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">moviesapi</string>
+    <string name="popular">Popular</string>
+    <string name="upcoming">Upcoming</string>
+</resources>
